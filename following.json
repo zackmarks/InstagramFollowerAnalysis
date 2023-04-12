@@ -1,0 +1,43 @@
+{
+  "relationships_following": [
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/zachertz",
+          "value": "zachertz",
+          "timestamp": 1681153367
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/zachlanebryan",
+          "value": "zachlanebryan",
+          "timestamp": 1681153359
+        }
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [
+        
+      ],
+      "string_list_data": [
+        {
+          "href": "https://www.instagram.com/zackmarks798",
+          "value": "zackmarks798",
+          "timestamp": 1681153329
+        }
+      ]
+    }
+  ]
+}
