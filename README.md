@@ -1,4 +1,4 @@
-# InstagramFollowerAnalysis
+# Instagram Follower Analysis
 
 This repository has the code required to check the status on statistics about accounts you follow adn accounts that follow you on Instagram.
 
@@ -13,3 +13,6 @@ When you do recieve that, follow this file pathline to access the two files you 
 
 Have these two files (followers_1.json and following.json) in the same directory as the followers.py. The names given are default names. Do not change them.
 
+#To Use
+Have your versions of the downloaded data (followers_1.json and following.json) and followers.py in the same directory and run how you would normally run a program. 
+You do not need to change followers.py. Please do not change the names of the downloaded JSON files, as Instagram gives them default names that work in the program.
