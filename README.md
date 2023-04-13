@@ -16,4 +16,5 @@ Have these two files (followers_1.json and following.json) in the same directory
 
 ## To Use
 Have your versions of the downloaded data (followers_1.json and following.json) and followers.py in the same directory and run how you would normally run a program. 
+The current versions in this repository are example files.
 You do not need to change followers.py. Please do not change the names of the downloaded JSON files, as Instagram gives them default names that work in the program.
